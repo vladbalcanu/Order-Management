@@ -1,0 +1,7 @@
+BILL/RECEIPT NUMBER 1
+Client's name : Client Schimbat
+Client's email : sada@gmail.com
+Acquired product : Toy
+CostPerProduct : 300
+Number of products acquired : 10
+Total Cost : 3000
